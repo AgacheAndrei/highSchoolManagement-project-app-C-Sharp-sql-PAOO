@@ -60,4 +60,20 @@ It includes:
 ##### After
 ![elevi_paoo13](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/fc9fe530-bc69-450e-9207-af7d481338df)
 ![elevi_paoo14](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/1b60e73f-2152-4b2c-a3f8-5ee33f0db9f9)
-
+#### Graphs page called "Grafic" with important data: 
+![elevi_paoo15](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/89dd3ee1-c746-4c62-8424-dbf5911ad0f3)
+#### Scholarship students page called "Bursieri" with data about scholarship and students: 
+![elevi_paoo16](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/01d1626b-79c3-4dcd-b092-ca1cf6d80d18)
+#### Command history page called "Istoric" with data about who use the app and for what purpose: 
+![elevi_paoo17](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/906d417e-5322-4fd9-bbb1-8536c544a46e)
+#### Reports page called "Rapoarte" with reports on varios topics and can export/import the data in Excel format : 
+![elevi_paoo18](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/1a776a29-eb48-4142-a7ea-13b48fefc2be)
+##### Export the data:
+![elevi_paoo19](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/3102d3e9-1f8a-4921-836a-b4fdfd399458)
+![elevi_paoo20](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/ec7e7be0-49ae-4754-b6c5-0b5b2207666e)
+##### Import the data:
+##### Old data:
+![elevi_paoo23](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/bcfc53e5-a8c7-46e0-b03f-19264606439b)
+##### New data imported:
+![elevi_paoo21](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/51c40ccb-d9af-40ac-ae20-d3c46cf9bf21)
+![elevi_paoo22](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/c1218360-d648-487b-a890-c0159a46b1bd)
