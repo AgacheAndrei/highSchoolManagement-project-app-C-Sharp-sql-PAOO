@@ -640,7 +640,7 @@ namespace Proiect_PAOO
         private void button7_Click_1(object sender, EventArgs e)
         {
             String str = "server=localhost;port = 3306; database = bd;UID = root;password = qwerty";
-            string Query = "select * from elev where nr_matricol not in (SELECT bd.elev.nr_matricol FROM bd.elev,bd.bursieri where elev.nr_matricol=bursieri.nr_matricol)";
+            string Query = "select * from elev where nr_matricol in (SELECT bd.elev.nr_matricol FROM bd.elev,bd.bursieri where elev.nr_matricol=bursieri.nr_matricol)";
 
             MySqlConnection MyConn2 = new MySqlConnection(str);
             MySqlCommand MyCommand2 = new MySqlCommand(Query, MyConn2);
