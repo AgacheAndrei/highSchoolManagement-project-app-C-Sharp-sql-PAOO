@@ -3,7 +3,7 @@
 <pre>
 An application with a graphical interface created in C# for managing scholarship students at a high school. 
 It includes:
- ->filtering the students🗃️ 
+ ->filtering the students🗃️ using different topics like scholarship, average score
  ->graphs📊 with important data 
  ->Excel📇 imports and exports 
  ->reports📑 on varios topics
@@ -15,6 +15,7 @@ It includes:
  ->addition➕ of students (insert)
  ->search🔍 with parameters
  ->student update⬆️
+ ->Sing-out button📤
 </pre>
 
 ### Programing languages and technology used
