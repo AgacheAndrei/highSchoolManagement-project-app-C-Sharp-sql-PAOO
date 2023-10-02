@@ -5,7 +5,7 @@ An application with a graphical interface created in C# for managing scholarship
 It includes:
  ->filtering the students🗃️ 
  ->graphs📊 with important data 
- ->Excel📂 imports and exports 
+ ->Excel📇 imports and exports 
  ->reports📑 on varios topics
  ->command history🧾 
  ->roles 👯(like admin and secretary)
@@ -27,7 +27,17 @@ It includes:
 
 ### Photos and how to use it
 
-#### Login 
-##### Admin user: andrei@cuza.com password:admin
-##### Secretary user: ana@cuza.com password:sec
-:basecamp:
+#### Login -> use one of this users
+##### Admin user🙍: andrei@cuza.com / password🛂: admin
+##### Secretary user🙍: ana@cuza.com / password🛂: sec
+![elevi_paoo](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/5c53926e-46f2-4b23-a7ea-9e026db6def8)
+#### Or create another user
+![elevi_paoo2](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/8f2442bd-5b8b-437d-89cd-fc43383e4a62)
+#### Main page called "Elevi" here you can: 
+##### Show all students with scholarship (exist many types of scholarships) by pressing "Afisare Bursieri" 
+##### Search after the "nr matricol" as key
+##### Filter students using their average score "medie" in ascending/descending order by pressing "Aplicare Filtre"
+##### Delete student using the "nr matricol" as key by pressing "Delete"
+##### And buttons which will import/export the data 
+
+
