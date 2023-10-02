@@ -37,7 +37,7 @@ It includes:
 #### Main page called "Elevi" here you can:
 ![elevi_paoo3](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/ede5dd15-9cd0-4193-8625-31edf38f3749)
 ##### Show all students with scholarship (exist many types of scholarships) by pressing "Afisare Bursieri":
-![elevi_paoo4](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/fef8866d-4546-4223-930f-21cf91917afd)
+![elevi_paoo4](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/e448ff00-d98f-4b28-b794-ddaebcac8845)
 ##### Search after the "nr matricol" as key:
 ![elevi_paoo5](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/16138be7-c5c7-4eff-b135-e30a5859004e)
 ##### Filter students using their average score "medie" in ascending/descending order by pressing "Aplicare Filtre":
