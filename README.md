@@ -1,5 +1,66 @@
 # High school mnagement - project app
 ## Project for univeristy 
+## The goal of the app
+<p>
+ The application developed addresses the issue of managing both scholarship and non-scholarship students within a high school.
+</p>
+
+## Analyze problems
+
+<p>
+A high school is a general education institution where graduates of primary schools are admitted, and where the knowledge required for further studies in higher education or various vocational fields is taught.
+A student is considered a scholarship recipient if they meet certain conditions imposed by the state and the educational institution they are a part of. According to the current legislation, there can be several types of scholarship recipients:
+Please note that all scholarships require a minimum overall grade that must be exceeded to enter the scholarship application process. These minimum grades vary widely depending on the type of scholarship and current legislation.
+</p>
+<pre>
+- Merit Scholars: These students have an overall grade above a minimum set by the high school and the Inspectorate for Education in the city where the high school is located.
+- Olympic Scholars: These are students who have achieved outstanding results at national or international levels in various olympiads.
+- Social Scholarships are divided into different categories based on the challenges faced by a student. These categories include scholarships for students who are orphaned by one or both parents, students from rural areas, students facing difficult situations, and students with serious health issues or disabilities.
+</pre>
+<p>
+Scholarships represent compensation that varies depending on the type of scholarship and the current legislation, and it is given to the student or their guardian during the validity period of the scholarship application.
+There are scholarships that last for:
+</p>
+<pre>
+- 6 months, such as academic scholarships like merit scholarships and Olympic scholarships.
+- 12 months, such as social scholarships in the categories mentioned above.
+</pre>
+For example, a merit scholarship can reach up to 600 lei per month.
+<p>
+All types of scholarships require different types of documents to be submitted by students in a dossier, and after the evaluation process, the student finds out whether they will be on the list of scholarship recipients. For example, a merit scholarship requires a copy of the ID card, a copy of the student's transcript, and other documents that are already available at the high school, such as a copy of the birth certificate.
+Each student receives a specific code for the documents they submit for a particular scholarship, which helps in the quick identification of the desired scholarship type. The secretariat can search for students much more quickly and easily based on this code.
+For example, the code "CICNFM" is for a student applying for a merit scholarship.
+</p>
+<pre>
+ The main entities involved in the student management system are:
+- The Student: Identified by:
+  - Registration Number
+  - Last Name
+  - First Name
+  - Personal Identification Number (CNP)
+  - Other details such as address, phone number, overall grade, etc.
+- The Administrator: Identified by:
+  - An identifier received from the high school (authentication code, email, etc.)
+  - Password
+  - Last Name
+  - First Name
+  - Role - What they are responsible for
+- The Secretary: Identified by:
+  - An identifier received from the high school (authentication code, email, etc.)
+  - Password
+  - Last Name
+  - First Name
+  - Role - What they are responsible for
+- The Type of Scholarship: Identified by:
+  - Affiliated code
+  - Set of rules for obtaining
+  - Name
+  - Required documents
+  - Value
+  - Duration
+</pre>
+
+## Code solution
 <pre>
 An application with a graphical interface created in C# for managing scholarship students at a high school. 
 It includes:
