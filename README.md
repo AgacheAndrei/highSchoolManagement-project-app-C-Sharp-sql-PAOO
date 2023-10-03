@@ -56,31 +56,6 @@ For example, the code "CICNFM" is for a student applying for a merit scholarship
   - Duration
 </pre>
 
-## Interaction Module
-<p>
-The Administrator is the person responsible for managing students, modifying, altering, or deleting student data, as well as removing students from various systems, files, and lists that the high school maintains.
-The Secretary is responsible for managing student records, financial records, creating various reports required by the educational institution, and organizing students into different categories (scholarship type, class, year of study, etc.).
-The Student is the individual for whom documents and records are managed.
-The Type of Scholarship represents the rules for approving scholarship applications, the duration of the scholarship, the value, and the eligible individuals for specific scholarships.
-</p>
-
-
-In addition to these main entities, there are some ancillary entities that play roles in categorizing students into multiple categories, such as:
-<pre>
-Classes:
- -Class Name
- -Start Year of the educational cycle
- -Specialization
- -Schedule
- -Specializations:
-Name:
- -Duration
- -Subjects studied
- -Specification of the in-depth area
-Profiles:
- -Name
- -General area of subjects studied
-</pre>
 ## Code solution
 <pre>
 An application with a graphical interface created in C# for managing scholarship students at a high school. 
