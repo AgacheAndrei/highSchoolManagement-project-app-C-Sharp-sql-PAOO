@@ -83,6 +83,9 @@ It includes:
  
 <br> 
 
+### Data base - concept
+![Picture1](https://github.com/AgacheAndrei/highSchoolManagement-project-app-C-Sharp-sql-PAOO/assets/36128809/6ade957b-69a7-480f-bbd2-ebbca2c4218d)
+
 ### Photos and how to use it
 
 #### Login -> use one of this users
